@@ -34,6 +34,11 @@ MSE: 15292049420.168428
 RMSE: 123661.02627816262
 R2 Square 0.9493312151487244
 ```
+***Distrbution between actual and predicted***
+
+![image](https://user-images.githubusercontent.com/60258264/226955730-bbef8974-0438-4f7e-be15-5ac1b6c68f44.png)
+
+
 ***Ridge Regression***
 ```
 Test set evaluation:
